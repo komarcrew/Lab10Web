@@ -14,4 +14,6 @@ Kelas : TI.20.D.1 <p>
 ![image](https://user-images.githubusercontent.com/101499377/170851102-29fb5c9b-0b37-4252-bbf7-769756ecce3f.png)<p>
   Buat file baru dengan nama <b> form_input.php </b><p>
   ![image](https://user-images.githubusercontent.com/101499377/170851130-29d92329-a7aa-4b80-a14c-ffbfa6c179de.png)<p>
+ Akses link : http://localhost/lab10_php_oop/form_input.php untuk melihat hasilnya.<p>
+   ![image](https://user-images.githubusercontent.com/101499377/170862150-4cf82d29-9cf3-4307-b892-a157d10e6658.png)
 
