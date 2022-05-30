@@ -9,6 +9,8 @@ Kelas : TI.20.D.1 <p>
   Buat file baru dengan nama <b> mobil.php </b><p>
   ![image](https://user-images.githubusercontent.com/101499377/170851022-dab344e7-a33a-477b-884a-ebef295fe830.png)<p>
 ![image](https://user-images.githubusercontent.com/101499377/170851037-4db2bcdf-5fa4-4fd6-a1f6-4b19aea5c25d.png)<p>
+  Akses link : http://localhost/lab10_php_oop/mobil.php untuk melihat hasilnya.<p>
+  ![image](https://user-images.githubusercontent.com/101499377/171027682-f9c5d8b6-2527-4b20-b20c-65e96acf698f.png)<p>
   Buat file baru dengan nama <b> form.php </b><p>
   ![image](https://user-images.githubusercontent.com/101499377/170851090-d6e1fd4a-3dc6-4b44-9d31-91071ea36751.png)<p>
 ![image](https://user-images.githubusercontent.com/101499377/170851102-29fb5c9b-0b37-4252-bbf7-769756ecce3f.png)<p>
